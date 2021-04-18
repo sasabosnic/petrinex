@@ -5,7 +5,7 @@ from urllib.parse import urljoin
 import pprint
 
 # Uncomment for the code to work.
-# petrinex_pubdata = "https://www.petrinex.gov.ab.ca/PublicData"
+petrinex_pubdata = "https://www.petrinex.gov.ab.ca/PublicData"
 
 
 def get_all_forms(url):
